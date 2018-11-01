@@ -1,3 +1,5 @@
+# dTunes
+React-based Dropbox Music Streaming Service for Me
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
